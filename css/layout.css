@@ -175,9 +175,9 @@ ul#nav li.current a { color: #1E732D; }
 	text-shadow: 0px 1px 3px rgba(0, 0, 0, .5);	
 }
 #main h2 {
-	font: 42px/1.2em 'montserrat-bold', sans-serif;	
+	font: 26px/54px 'montserrat-bold', sans-serif;	
 	color: #fff;
-	margin-bottom: 14px;	
+	margin-bottom: 18px;	
 	padding: 0 10%;
 	text-shadow: 0px 1px 3px rgba(0, 0, 0, .5);
 }
