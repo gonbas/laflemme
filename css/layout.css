@@ -290,8 +290,8 @@ ul#nav li.current a { color: #1E732D; }
 /* ------------------------------------------------------------------ */
 
 #about {
-	background: #1E732D;
-	color: #fff; 
+	background: #FFFFFF;
+	color: #000000; 
    padding-top: 96px;
    padding-bottom: 72px;     
    overflow: hidden; 
@@ -310,16 +310,16 @@ ul#nav li.current a { color: #1E732D; }
 #about .section-header .icon-wrap { 	
 	font-size: 60px;
 	margin-bottom: 18px;
-	color: #0F3C17; 
+	color: #808080; 
 }
 #about .section-header h1 {
    font: 30px/36px 'montserrat-bold', sans-serif;
-   color: #fff;
+   color: #000000;
    margin-bottom: 12px;
    padding: 0 15%;
 }
 #about .section-header p { 
-	color: #fff; 
+	color: #000000; 
 	padding: 0 3%;
 }
 #about h3 {
